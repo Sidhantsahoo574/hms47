@@ -1,7 +1,7 @@
 package demo;
 
 import java.util.*;
-
+//welcome
 public class Rps {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
