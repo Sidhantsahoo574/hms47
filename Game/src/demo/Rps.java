@@ -42,6 +42,7 @@ public class Rps {
 					System.out.println("You win");
 				else if(c.equals("s"))
 					System.out.println("You lose");
+				//thank you
 			}
 		
 		}
